@@ -1,0 +1,15 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "Bayou Properties Realty",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "Bayou Properties Realty",
+      "path": "web",
+      "framework": "web"
+    }
+  ]
+}
