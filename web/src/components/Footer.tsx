@@ -51,9 +51,9 @@ export default function Footer() {
                 <Phone className="w-4 h-4 text-[#C9A84C]" />
                 (281) 286-6500
               </a>
-              <a href="mailto:info@bayouproperties.com" className="flex items-center gap-3 text-[#F5F1EB]/60 hover:text-[#C9A84C] text-sm transition-colors">
+              <a href="mailto:info@bayoupropertiesrealty.com" className="flex items-center gap-3 text-[#F5F1EB]/60 hover:text-[#C9A84C] text-sm transition-colors">
                 <Mail className="w-4 h-4 text-[#C9A84C]" />
-                info@bayouproperties.com
+                info@bayoupropertiesrealty.com
               </a>
               <div className="flex items-start gap-3 text-[#F5F1EB]/60 text-sm">
                 <MapPin className="w-4 h-4 text-[#C9A84C] mt-0.5 shrink-0" />
