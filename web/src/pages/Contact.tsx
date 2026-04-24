@@ -63,7 +63,7 @@ export default function ContactPage() {
                   </a>
 
                   <a
-                    href="mailto:info@bayouproperties.com"
+                    href="mailto:info@bayoupropertiesrealty.com"
                     className="flex items-start gap-4 group"
                   >
                     <div className="w-12 h-12 rounded-xl bg-[#C9A84C]/10 flex items-center justify-center shrink-0 group-hover:bg-[#C9A84C]/20 transition-colors">
